@@ -1,4 +1,4 @@
-## Diployed URL:
+# Deployed URL:
 https://deluxe-bienenstitch-be7dc3.netlify.app/
 
 
