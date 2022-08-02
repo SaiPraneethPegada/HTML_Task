@@ -1,3 +1,7 @@
+## Diployed URL:
+https://deluxe-bienenstitch-be7dc3.netlify.app/
+
+
 # HTML_Task :
 
 1. Fix the bugs in below snippet
